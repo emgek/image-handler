@@ -1,0 +1,12 @@
+{
+    "name": "bakay/image-handler",
+    "description": "Simple image handler class - resizing, watermarking, etc.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bakay"
+        }
+    ],
+    "require": {}
+}
